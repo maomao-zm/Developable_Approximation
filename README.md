@@ -4,4 +4,4 @@
 
 ## The result and the Guass map presentation : 
 
-![result](./pictures/result.png)
+![result](./pictures/resultandgauss.png)
